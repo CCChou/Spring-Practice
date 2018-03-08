@@ -1,7 +1,10 @@
 plugins {
     id 'java'
     id 'application'
+    id 'org.springframework.boot' version '2.0.0.RELEASE'
 }
+
+mainClassName = 'dennis.practice.spring.Application'
 
 repositories {
     jcenter()
