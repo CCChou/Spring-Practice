@@ -1,1 +1,1 @@
-# Practice Spring Pand Gradle multi project
+# Practice Spring project and Gradle multi project
