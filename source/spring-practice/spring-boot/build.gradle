@@ -1,0 +1,10 @@
+plugins {
+    id 'application'
+    id 'org.springframework.boot' version '1.5.10.RELEASE'
+}
+
+mainClassName = 'dennis.practice.spring.Application'
+
+dependencies {
+    compile 'org.springframework.boot:spring-boot-starter-web:1.5.10.RELEASE'
+}

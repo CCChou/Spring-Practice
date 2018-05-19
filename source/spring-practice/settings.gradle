@@ -8,3 +8,5 @@
  */
 
 rootProject.name = 'spring-practice'
+
+include 'spring-boot', 'spring-core'
